@@ -7,6 +7,7 @@
     "start": "node server.js",
     "test": "mocha test.js --recursive",
     "test": "mocha test2.js --recursive"
+    "test": "mocha test2.js --recursive"
   },
   "repository": {
     "type": "git",
